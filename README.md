@@ -1,0 +1,2 @@
+# MymemoSpringApp
+MymemoSpringApp storing memories
